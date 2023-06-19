@@ -1,0 +1,346 @@
+*{margin:0;
+padding:0;}
+
+#siteHeader{
+	background-color:#833c0b;
+	width:2000px;
+	height:110px;
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:5;
+}
+#line{
+	background-color:#833c0b;
+	width:1500px;
+	height:30px;
+	position:absolute;
+	top:210px;
+	z-index:0;
+}
+#line3{
+	background-color:#833c0b;
+	width:1500px;
+	height:30px;
+	position:absolute;
+	top:810px;
+	z-index:0;
+}
+#line6{
+	background-color:#833c0b;
+	width:1500px;
+	height:30px;
+	position:absolute;
+	top:1850px;
+	z-index:1;
+}
+#line9{
+	background-color:#833c0b;
+	width:1500px;
+	height:30px;
+	position:absolute;
+	top:2150px;
+	z-index:0;
+}
+#Title{
+	color:white;
+	text-align:left;
+	margin-top:250px;
+	margin-left:25%;
+	height:50px;
+	width:50%;
+	z-index:4;
+	position:absolute;
+	top:104px;
+}
+#Title2{
+	color:white;
+	text-align:left;
+	margin-top:250px;
+	margin-left:47%;
+	height:50px;
+	width:50%;
+	z-index:4;
+	position:absolute;
+	top:704px;
+}
+#Title3{
+	color:white;
+	text-align:left;
+	margin-top:250px;
+	margin-left:65px;
+	height:50px;
+	width:50%;
+	z-index:4;
+	position:absolute;
+	top:804px;
+}
+#Title4{
+	color:white;
+	text-align:left;
+	margin-top:250px;
+	margin-left:65px;
+	height:50px;
+	width:50%;
+	z-index:4;
+	position:absolute;
+	top:1154px;
+}
+#Title5{
+	color:white;
+	text-align:left;
+	margin-top:250px;
+	margin-left:65px;
+	height:50px;
+	width:50%;
+	z-index:4;
+	position:absolute;
+	top:1700px;
+	left:450px;
+}
+#Title6{
+	color:#262626;
+	text-align:left;
+	margin-top:250px;
+	margin-left:65px;
+	height:50px;
+	width:50%;
+	z-index:4;
+	position:absolute;
+	top:1800px;
+	left:460px;
+}
+#Title7{
+	color:white;
+	text-align:left;
+	margin-top:250px;
+	margin-left:65px;
+	height:50px;
+	width:50%;
+	z-index:4;
+	position:absolute;
+	top:2050px;
+	left:550px;
+}
+#imageLogo{
+	position:fixed;
+	left:600px;
+	top:5px;
+	z-index:5;
+}
+#imageBoard{
+	position:absolute;
+	left:750px;
+	top:405px;
+	z-index:4;
+}
+.menuItems{
+	font-family:"Sitka Heading"​;
+	text-align:center;
+	width:170px;
+	height:30px;
+	background-color:#53a694;
+	position:absolute;
+	top:400px;
+	z-index:3;
+	border-radius:5px;
+}
+#line2{
+	background-color:#c55a11;
+	width:200px;
+	height:30px;
+	left:300px;
+	position:absolute;
+	top:350px;
+	z-index:1;
+	border-radius:5px;
+}
+#line5{
+	background-color:#c55a11;
+	width:305px;
+	height:30px;
+	left:50px;
+	position:absolute;
+	top:1050px;
+	z-index:1;
+	border-radius:5px;
+}
+#line4{
+	background-color:#c55a11;
+	width:200px;
+	height:30px;
+	left:560px;
+	position:absolute;
+	top:950px;
+	z-index:1;
+	border-radius:5px;
+}
+#line7{
+	background-color:#c55a11;
+	width:300px;
+	height:30px;
+	left:50px;
+	position:absolute;
+	top:1400px;
+	z-index:1;
+	border-radius:5px;
+}
+#line8{
+	background-color:#c55a11;
+	width:330px;
+	height:30px;
+	left:500px;
+	position:absolute;
+	top:1950px;
+	z-index:1;
+	border-radius:5px;
+}
+#line10{
+	background-color:#c55a11;
+	width:130px;
+	height:30px;
+	left:595px;
+	position:absolute;
+	top:2300px;
+	z-index:1;
+	border-radius:5px;
+}
+#line11{
+	background-color:#833c0b;
+	width:130px;
+	height:30px;
+	left:595px;
+	position:absolute;
+	top:2400px;
+	z-index:1;
+	border-radius:5px;
+}
+#menuItem1{
+	font-size:15pt;
+	top:140px;
+	left:15%;
+	color:white;
+	background-color:#c55a11;
+}
+#menuItem2{
+	font-size:15pt;
+	left:30%;
+	top:140px;
+	color:white;
+	background-color:#c55a11;
+}
+#menuItem3{
+	font-size:15pt;
+	left:45%;
+	top:140px;
+	color:white;
+	background-color:#c55a11;
+}
+#menuItem4{
+	font-size:15pt;
+	left:60%;
+	top:140px;
+	color:white;
+	background-color:#c55a11;
+}
+#menuItem5{
+	font-size:15pt;
+	left:75%;
+	top:140px;
+	color:white;
+	background-color:#c55a11;
+}
+.image{
+	background-color:#fcba03;
+	width:300px;
+	height:200px;
+	position:absolute;
+	top:1100px;
+	left:50px;
+	border:solid 2px #833c0b;
+	z-index:1;
+}
+#dishImage1{
+	background-image:url(https://images.unsplash.com/photo-1587314168485-3236d6710814?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=778&q=80);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+	z-index:1;
+}
+#imageCupcake{
+	position:absolute;
+	left:50px;
+	top:1450px;
+	border:solid 2px #833c0b;
+	z-index:1;
+}
+#info1{
+	color:white;
+	height:100px;
+	width:40%;
+	position:fixed;
+	top:30px;
+	left:5%;
+	z-index:5;
+}
+#MenuAbout{
+	color:#262626;
+	height:100px;
+	width:40%;
+	position:relative;
+	top:420px;
+	left:170px;
+}
+#DishAbout{
+	color:#262626;
+	height:100px;
+	width:40%;
+	position:relative;
+	top:1020px;
+	left:370px;
+}
+#DishAbout2{
+	color:#262626;
+	height:100px;
+	width:40%;
+	position:relative;
+	top:1310px;
+	left:370px;
+}
+#footer{
+	text-align:right;
+	height:50px;
+	width:100%;
+	background-color:#833c0b;
+	float:bottom;
+	margin-top:100px;
+	margin-right:50px;
+	color:white;
+	z-index:1;
+}
+<style class="text/css">
+  .guruweba_example_form {
+    width: 100px;
+	margin-left:50px;
+  }
+  .guruweba_example_caption {
+    font-size: 24px;
+    text-align: center;
+	bottom:20px;
+	margin-top:2100px;
+  }
+  .guruweba_example_form .guruweba_example_infofield {
+    margin-top: 10px;
+    font-weight: bold;
+	margin-left:20px;
+  }
+  .guruweba_example_form select, .guruweba_example_form input, .guruweba_example_form textarea {
+    width: 200px;
+    margin: 5px 0;
+    padding: 5px 15px;
+	margin-left:20px;
+  }
+</style>
+
+
+/*<em>dfhfdbjdkswy</em><input type="text" class="fname" name="fname1"><br><br>*/
